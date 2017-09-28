@@ -142,15 +142,15 @@ $appName = explode('.', $domain)[0];
                      <br />
                     </p>
                     <pre class="pre-item">
-"title" => "Item De Teste - Por Favor, Não Ofertar! --kc:off",
-        "category_id" => "MLB1227",
+ "title" => "Item De Prueba - Por Favor, No Ofertar! --kc:off",
+        "category_id" => "MCO118109",
         "price" => 10,
-        "currency_id" => "BRL",
+        "currency_id" => "COP",
         "available_quantity" => 1,
         "buying_mode" => "buy_it_now",
         "listing_type_id" => "bronze",
         "condition" => "new",
-        "description" => "Item de Teste. Mercado Livre's PHP SDK.",
+        "description" => "Item de prueba",
         "video_id" => "RXWn6kftTHY",
         "warranty" => "12 month",
         "pictures" => array(
@@ -161,7 +161,6 @@ $appName = explode('.', $domain)[0];
                 "source" => "https://upload.wikimedia.org/wikipedia/commons/a/ab/Teashades.gif"
             )
         )
-    )
                     </pre>
 
                     <?php
@@ -189,7 +188,7 @@ $appName = explode('.', $domain)[0];
                         // We construct the item to POST
                         $item = array(
                             "title" => "Item De Prueba - Por Favor, No Ofertar! --kc:off",
-        "category_id" => "MCO118109,
+        "category_id" => "MCO118109",
         "price" => 10,
         "currency_id" => "COP",
         "available_quantity" => 1,
