@@ -1,8 +1,8 @@
 {
-    "name": "Mercado Libre PHP SDK",
+    "name": "Colombia-startup Mercado Libre PHP SDK",
     "description": "The official PHP SDK for Mercado Libre's Platform.",
     "website": "http://developers.mercadolibre.com/",
-    "repository": "https://github.com/mercadolibre/php-sdk",
+    "repository": "https://github.com/ososorio/colombia-startup",
     "logo": "https://mercadolibredevsite.s3.amazonaws.com/wp-content/uploads/2017/08/29205159/dev.jpg",
     "success_url": "/",
     "keywords": [
