@@ -143,7 +143,7 @@ $appName = explode('.', $domain)[0];
                     </p>
                     <pre class="pre-item">
  "title" => "Item De Prueba - Por Favor, No Ofertar! --kc:off",
-        "category_id" => "MCO118109",
+        "category_id" => "MCO15044",
         "price" => 10,
         "currency_id" => "COP",
         "available_quantity" => 1,
@@ -188,7 +188,7 @@ $appName = explode('.', $domain)[0];
                         // We construct the item to POST
                         $item = array(
                             "title" => "Item De Prueba - Por Favor, No Ofertar! --kc:off",
-        "category_id" => "MCO118109",
+        "category_id" => "MCO15044",
         "price" => 10,
         "currency_id" => "COP",
         "available_quantity" => 1,
